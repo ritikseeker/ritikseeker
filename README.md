@@ -1,4 +1,5 @@
 ### Hi there 👋 
+I like to solve puzzles, play chess, video games.
 
 <!--
 **ritikraturi/ritikraturi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
