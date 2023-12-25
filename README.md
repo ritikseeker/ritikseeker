@@ -1,5 +1,5 @@
 ### Hi there 👋 
-I like to solve puzzles, play chess, video games, watch webseries, listen music, taking walks, just depends on the mood.
+Aspiring Data Scientist
 
 <!--
 **ritikraturi/ritikraturi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
