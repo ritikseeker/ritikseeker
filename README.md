@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-- 🌱 I’m currently learning Game Development
-- 📫 How to reach me: egiawofufuza@gmail.com
+- 🌱 I’m currently learning Data Science
+- 📫 How to reach me:
 
