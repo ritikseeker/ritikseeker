@@ -13,6 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-- 🌱 I’m currently learning Data Science
-- 📫 How to reach me:
+- 📫 How to reach me: ritikraturiworks@gmail.com
 
