@@ -1,6 +1,5 @@
 ### Hi there 👋 
-Aspiring Data Scientist
-
+I am a web development and Data science/AI enthusiast
 <!--
 **ritikraturi/ritikraturi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
