@@ -1,5 +1,5 @@
 ### Hi there 👋 
-I am a web development and Data science/AI enthusiast
+I am a full stack web dev and AI enthusiast
 <!--
 **ritikraturi/ritikraturi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,7 +11,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
 -->
-- 📫 How to reach me: ritikraturiworks@gmail.com
+- My Technical Skills includes
+  1. HTML, CSS, Javascript, React.js, Node.js, Express.js, TailwindCSS
+  2. RESTful APIs, Python, SQL, MongoDB, Postman, Git, Github, Figma
 
+- You can reach out to me on:
+  Email:        ritikraturiworks@gmail.com
+  Linkedin:     https://www.linkedin.com/in/ritikraturi/
