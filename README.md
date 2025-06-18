@@ -12,10 +12,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working as a Backend dev Intern
+
 - My Technical Skills includes
   1. HTML, CSS, Javascript, React.js, Node.js, Express.js, TailwindCSS
   2. RESTful APIs, Python, SQL, MongoDB, Postman, Git, Github, Figma
 
+- My interests are:
+  1. Solving Riddles, Building Apps
+  2. Anime, Sci-fi webseries, French
+     
 - You can reach out to me on:
   1. Email:        ritikraturiworks@gmail.com
   2. Linkedin:     https://www.linkedin.com/in/ritikraturi/
