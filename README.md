@@ -1,4 +1,5 @@
-### Hi there 👋 
+## Hi there 👋 
+### Myself Ritik
 I am a full stack web dev and AI enthusiast
 <!--
 **ritikraturi/ritikraturi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
