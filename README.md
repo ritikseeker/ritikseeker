@@ -17,5 +17,5 @@ Here are some ideas to get you started:
   2. RESTful APIs, Python, SQL, MongoDB, Postman, Git, Github, Figma
 
 - You can reach out to me on:
-  Email:        ritikraturiworks@gmail.com
-  Linkedin:     https://www.linkedin.com/in/ritikraturi/
+  1. Email:        ritikraturiworks@gmail.com
+  2. Linkedin:     https://www.linkedin.com/in/ritikraturi/
