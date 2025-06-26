@@ -22,6 +22,4 @@ Here are some ideas to get you started:
   1. Solving Riddles, Building Apps
   2. Anime, Sci-fi webseries, French
      
-- You can reach out to me on:
-  1. Email:        ritikraturiworks@gmail.com
-  2. Linkedin:     https://www.linkedin.com/in/ritikraturi/
+- You can reach out to me on ritikraturiworks@gmail.com
