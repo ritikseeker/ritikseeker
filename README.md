@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 - 🔭 I’m currently working as a Backend dev Intern
+-->
 
 - My Technical Skills includes
   1. HTML, CSS, Javascript, React.js, Node.js, Express.js, TailwindCSS
