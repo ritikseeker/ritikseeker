@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 - My Technical Skills includes
   1. HTML, CSS, Javascript, React.js, Node.js, Express.js, TailwindCSS
-  2. RESTful APIs, Python, SQL, MongoDB, Postman, Git, Github, Figma
+  2. RESTful APIs, Python, Flask, SQL, MongoDB, Postman, Git, Github, Figma
 
 - My interests are:
   1. Solving Riddles, Building Apps
